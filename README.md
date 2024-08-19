@@ -1,27 +1,37 @@
-# Angular18ThreeD
+# Angular 18 Three.js Integration
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+### Author: Akash Pandey akashdeep9226@gmail.com
 
-## Development server
+## Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project demonstrates how to integrate **Three.js** with an **Angular 18** application. It provides a basic setup for creating 3D graphics and animations within an Angular environment. The project includes a simple example of rendering a 3D cube, showing how to set up Three.js within an Angular component and how to manage rendering, animation, and responsiveness.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular 18**: The latest version of Angular.
+- **Three.js**: A powerful 3D graphics library.
+- **Responsive Canvas**: The Three.js scene automatically adjusts to window size changes.
+- **Anti-Aliasing**: Smooth edges for better visual quality.
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Prerequisites
 
-## Running unit tests
+Before you begin, ensure you have met the following requirements:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Node.js** and **npm** installed on your machine.
+- Basic knowledge of Angular and Three.js.
 
-## Running end-to-end tests
+### Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Follow these steps to set up the project locally:
 
-## Further help
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/info-next/angular-18-three-js.git
+   cd angular-three-app
+   npm install
+   ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+### Contact   
+   Email: akashdeep9226@gmail.com
